@@ -55,6 +55,7 @@ namespace WindowsFormsApp3
         private void numericUpDown2_ValueChanged(object sender, EventArgs e)
         {
             pictureBox1.Size = new Size((int)numericUpDown1.Value, (int)numericUpDown2.Value);
+            // ku ku
         }
     }
 }
